@@ -115,6 +115,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Frost101/Frost101/output/snake.svg" alt="Snake animation" />
 
-###

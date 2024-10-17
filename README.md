@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">I am MD Sadik Hossain Shanto, a Computer Science and Engineering Undergrad Student from Bangladesh University of Engineering and Technology(BUET)</p>
+<p align="left">I am MD Sadik Hossain Shanto, a Computer Science and Engineering undergraduate student from Bangladesh University of Engineering and Technology(BUET)</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I’m currently working on Image Processing, Privacy and Security of LLMs and some Development projects<br>🌱 I’m currently learning System Design, Image Processing and deep learning<br>💼 I'm currently looking for full-time Software Engineering role and CS-related research opportunities<br>👯 Open for collaboration on CS Research Projects and Open Source Development projects<br>🎯 Goals: Sky is the limit<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I’m currently working on Image Processing, Privacy and Security of LLMs and some Development projects<br>🌱 I’m currently learning System Design, Image Processing and deep learning<br>💼 I'm currently looking for full-time Software Engineering role and CS-related research opportunities<br>👯 Open for collaboration on CS Research Projects and Open Source Development projects<br>🎯 Goals: Sky is the limit<br>- 📫 How to reach me **shantosadikrglhs@gmail.com**</p>
 
 ###
 
@@ -66,23 +66,27 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
 ###

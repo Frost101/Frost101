@@ -8,7 +8,7 @@ A <b>Computer Science and Engineering</b> undergraduate student from <b>Banglade
 - 🌱 I’m currently learning System Design, Image Processing and Deep learning<br>
 - 💼 I'm currently looking for full-time Software Engineering role and CS-related research opportunities<br>
 - 👯 Open for collaboration on CS Research Projects and Open Source Development projects<br>
-- 🎯 Goals: Sky is the limit<br>
+- 🎯 Sky is the limit<br>
 - 📫 How to reach me: **[shantosadikrglhs@gmail.com](mailto:shantosadikrglhs@gmail.com)**
 
 ###

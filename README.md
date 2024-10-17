@@ -5,7 +5,7 @@
 <p align="left">A <b>Computer Science and Engineering</b> undergraduate student from <b>Bangladesh University of Engineering and Technology(BUET)</b></p>
 - ✨ Creating bugs since 2020<br>
 - 📚 I’m currently working on Image Processing, Privacy and Security of LLMs and some Development projects<br>
-- 🌱 I’m currently learning System Design, Image Processing and deep learning<br>
+- 🌱 I’m currently learning System Design, Image Processing and Deep learning<br>
 - 💼 I'm currently looking for full-time Software Engineering role and CS-related research opportunities<br>
 - 👯 Open for collaboration on CS Research Projects and Open Source Development projects<br>
 - 🎯 Goals: Sky is the limit<br>

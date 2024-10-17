@@ -2,13 +2,14 @@
 
 ###
 
-<p align="left">I am MD Sadik Hossain Shanto, a Computer Science and Engineering undergraduate student from Bangladesh University of Engineering and Technology(BUET)</p>
-
-###
-
-<br clear="both">
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I’m currently working on Image Processing, Privacy and Security of LLMs and some Development projects<br>🌱 I’m currently learning System Design, Image Processing and deep learning<br>💼 I'm currently looking for full-time Software Engineering role and CS-related research opportunities<br>👯 Open for collaboration on CS Research Projects and Open Source Development projects<br>🎯 Goals: Sky is the limit<br>- 📫 How to reach me **shantosadikrglhs@gmail.com**</p>
+<p align="left">A <b>Computer Science and Engineering</b> undergraduate student from <b>Bangladesh University of Engineering and Technology(BUET)</b></p>
+- ✨ Creating bugs since 2020<br>
+- 📚 I’m currently working on Image Processing, Privacy and Security of LLMs and some Development projects<br>
+- 🌱 I’m currently learning System Design, Image Processing and deep learning<br>
+- 💼 I'm currently looking for full-time Software Engineering role and CS-related research opportunities<br>
+- 👯 Open for collaboration on CS Research Projects and Open Source Development projects<br>
+- 🎯 Goals: Sky is the limit<br>
+- 📫 How to reach me **shantosadikrglhs@gmail.com**
 
 ###
 
@@ -104,9 +105,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Frost101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frost101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Frost101&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Frost101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frost101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frost101&show_icons=true&locale=en&theme=dracula&hide_rank=true" alt="Frost101" /></p>
+  
 </div>
 
 ###

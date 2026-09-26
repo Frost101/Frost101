@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&duration=3200&pause=1000&color=5FE3C6&center=true&vCenter=true&width=720&height=48&lines=Intelligent+multimodal+systems+for+healthcare;AI+security+and+trustworthy+AI;Applying+to+Ph.D.+programs+for+Fall+2027" />
-    <img alt="Intelligent multimodal systems for healthcare. AI security and trustworthy AI. Applying to Ph.D. programs for Fall 2027." src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&duration=3200&pause=1000&color=0B7A6B&center=true&vCenter=true&width=720&height=48&lines=Intelligent+multimodal+systems+for+healthcare;AI+security+and+trustworthy+AI;Applying+to+Ph.D.+programs+for+Fall+2027" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&duration=3200&pause=1000&color=5FE3C6&center=true&vCenter=true&width=720&height=48&lines=Intelligent+multimodal+systems+for+healthcare;AI+security+and+trustworthy+AI" />
+    <img alt="Intelligent multimodal systems for healthcare. AI security and trustworthy AI." src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=24&duration=3200&pause=1000&color=0B7A6B&center=true&vCenter=true&width=720&height=48&lines=Intelligent+multimodal+systems+for+healthcare;AI+security+and+trustworthy+AI" />
   </picture>
 </p>
 
@@ -26,7 +26,6 @@ I'm Shanto, an AI Research Engineer, and my research is equal parts healthcare a
 - 👨‍🏫 **Lecturer**, Department of CSE, [BRAC University](https://www.bracu.ac.bd/)
 - 🎓 **B.Sc. graduate**, CSE, [BUET](https://www.buet.ac.bd/)
 - 🫒 **Co-founder**, Olive AI, bringing clinical AI into everyday practice in Bangladesh
-- 🎯 **Applying to Ph.D. programs for Fall 2027**
 - 📫 Reach me at **md.sadik.hossain.shanto@gmail.com**
 
 ## 🔬 Research
